@@ -1,0 +1,196 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Pietari Pennanen",
+    "label": "AI implementation / Editorial workflows / Learning materials",
+    "image": "photo.jpg",
+    "email": "pietari.pennanen@proton.me",
+    "phone": "+358 40 825 7665",
+    "summary": "I bring AI into real editorial work: I find where it fits, design and build the solution, and help people adopt it.\n\nI'm a publishing editor at Otava Oppiminen, working on digital learning materials in mathematics and science. Since August 2026 my focus has been AI implementation in editorial work and content production, as part of Otava's AI team. I trained as a mathematics teacher.",
+    "location": {
+      "city": "Helsinki",
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pietari-pennanen",
+        "url": "https://www.linkedin.com/in/pietari-pennanen/"
+      },
+      {
+        "network": "GitHub",
+        "username": "P1P3TT1",
+        "url": "https://github.com/P1P3TT1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Otava Oppiminen",
+      "position": "Publishing Editor",
+      "startDate": "2021",
+      "highlights": [
+        "Since 08/2026: AI implementation in editorial work and content production, as a member of Otava's AI team",
+        "Mathematics, plus lower and upper secondary science, with a focus on digital production",
+        "Developing AI-assisted tools and processes, and training colleagues to use AI",
+        "Led content projects for digital mathematics learning materials, covering both editing and project management"
+      ]
+    },
+    {
+      "name": "Otava",
+      "position": "Freelancer",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Digital mathematics productions."
+    },
+    {
+      "name": "University of Oulu",
+      "position": "Designer",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Produced self-study materials for several courses in the research unit of mathematical sciences and shaped them into pedagogically sound Moodle material."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Alt text that travels with every image",
+      "featured": true,
+      "description": "Designed a pipeline for producing alt texts for images. An AI assistant generates the alt texts, an editor reviews them, and a lightweight tool writes them into the images' IPTC metadata. The descriptions are stored in each image, so they follow the image wherever it is used, and no image is left without an alt text. Wrote the technical documentation in Finnish and English.",
+      "keywords": [
+        "IPTC/XMP metadata",
+        "WCAG guidelines",
+        "a custom alt text editor"
+      ]
+    },
+    {
+      "name": "AI skills that know the house style",
+      "featured": true,
+      "description": "Developed custom AI skills (Claude) that automate editorial and design tasks in learning-material production, such as branded presentations, vector math illustrations and data charts. Each skill builds in house style and quality rules, so the output is consistent and production-ready. I identified the needs with editorial staff, prototyped iteratively and prepared the skills for team-wide use.",
+      "keywords": [
+        "Claude skills",
+        "prompt design",
+        "iterative prototyping"
+      ]
+    },
+    {
+      "name": "Tools that take the tedious parts off editors' plates",
+      "featured": true,
+      "description": "Setting up one home for small internal tools, available behind company single sign-on. One tool combines the comments from several Word and PDF files into one document and anonymises them, and another helps plan product families more comprehensively. More tools are on the way. I also train colleagues to use AI in their own work.",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Pulmapaja",
+      "description": "Pulmapaja, a puzzle generator for printing or solving on screen",
+      "url": "https://p1p3tt1.github.io/pulmapaja/"
+    },
+    {
+      "name": "Poimuri",
+      "description": "Poimuri, a match-3 puzzle game",
+      "url": "https://p1p3tt1.github.io/poimuri/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI and data",
+      "keywords": [
+        "Generative AI",
+        "AI agents and skills",
+        "prompt design",
+        "machine learning basics (classification, regression, text features)",
+        "AI tools: Claude and Claude Code, ChatGPT, Gemini, M365 Copilot"
+      ]
+    },
+    {
+      "name": "Solution design",
+      "keywords": [
+        "Workflow redesign",
+        "requirements",
+        "rapid prototyping",
+        "accessibility (WCAG)",
+        "image metadata standards"
+      ]
+    },
+    {
+      "name": "People and change",
+      "keywords": [
+        "Training colleagues",
+        "workshops",
+        "bilingual documentation",
+        "linking editors and developers"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Python",
+        "JavaScript and React",
+        "HTML/CSS",
+        "LaTeX and KaTeX",
+        "VBA (Office macros)",
+        "GitHub",
+        "Microsoft 365 and Google Workspace"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oulu",
+      "studyType": "Master of Science",
+      "area": "Mathematics (minors: chemistry, pedagogical studies; subject teacher track)",
+      "endDate": "2021"
+    },
+    {
+      "institution": "University of Oulu",
+      "studyType": "Bachelor of Science",
+      "area": "Mathematics (minors: physics, pedagogical studies; subject teacher track)",
+      "endDate": "2019"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building AI",
+      "issuer": "University of Helsinki",
+      "date": "2026"
+    },
+    {
+      "name": "Elements of AI",
+      "issuer": "University of Helsinki",
+      "date": "2025"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Excellent"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Good"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Trail running, reading, films, games and my own coding projects."
+    },
+    {
+      "name": "I've solved every Yle Sanapyramidi since it launched."
+    }
+  ],
+  "meta": {
+    "version": "0.2.0",
+    "lastModified": "2026-10-20",
+    "note": "Values in double square brackets are placeholders. The page highlights them until they are filled in."
+  }
+}

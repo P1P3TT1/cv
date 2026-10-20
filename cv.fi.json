@@ -1,0 +1,196 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Pietari Pennanen",
+    "label": "Tekoälyn käyttöönotto / Toimitustyön prosessit / Oppimateriaalit",
+    "image": "photo.jpg",
+    "email": "pietari.pennanen@proton.me",
+    "phone": "+358 40 825 7665",
+    "summary": "Tuon tekoälyn osaksi toimitustyön arkea: etsin kohdat, joissa siitä on hyötyä, suunnittelen ja rakennan ratkaisun sekä autan ihmisiä ottamaan sen käyttöön.\n\nTyöskentelen kustannustoimittajana Otava Oppimisessa, jossa teen matematiikan ja luonnontieteiden digitaalisia oppimateriaaleja. Elokuusta 2026 alkaen olen keskittynyt tekoälyn käyttöönottoon toimitustyössä ja sisällöntuotannossa osana Otavan tekoälytiimiä. Olen koulutukseltani matematiikan aineenopettaja.",
+    "location": {
+      "city": "Helsinki",
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pietari-pennanen",
+        "url": "https://www.linkedin.com/in/pietari-pennanen/"
+      },
+      {
+        "network": "GitHub",
+        "username": "P1P3TT1",
+        "url": "https://github.com/P1P3TT1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Otava Oppiminen",
+      "position": "Kustannustoimittaja",
+      "startDate": "2021",
+      "highlights": [
+        "Elokuusta 2026 alkaen tekoälyn käyttöönotto toimitustyössä ja sisällöntuotannossa Otavan tekoälytiimin jäsenenä",
+        "Matematiikka sekä yläkoulun ja lukion luonnontieteet, painotuksena digitaalinen tuotanto",
+        "Tekoälyavusteisten työkalujen ja prosessien kehittäminen sekä kollegoiden kouluttaminen tekoälyn käyttöön",
+        "Matematiikan digitaalisten oppimateriaalien sisältöprojektien vetäminen (toimitus- ja projektinhallintatyö)"
+      ]
+    },
+    {
+      "name": "Otava",
+      "position": "Freelancer",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Matematiikan digitaaliset tuotannot."
+    },
+    {
+      "name": "Oulun yliopisto",
+      "position": "Suunnittelija",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Tuotin itseopiskelumateriaaleja usealle matemaattisten tieteiden tutkimusyksikön kurssille ja muokkasin ne pedagogisesti toimiviksi Moodle-kokonaisuuksiksi."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Alt-teksti kulkee kuvan mukana",
+      "featured": true,
+      "description": "Suunnittelin prosessin, jossa tekoälyavustaja laatii kuvien alt-tekstit, toimittaja tarkistaa ne ja kevyt työkalu kirjoittaa ne kuvien metatietoihin (IPTC). Kuvaukset tallentuvat kuvatiedostoihin, joten ne seuraavat kuvaa kaikkialle, missä sitä käytetään, eikä yksikään kuva jää ilman alt-tekstiä. Laadin prosessille tekniset ohjeet suomeksi ja englanniksi.",
+      "keywords": [
+        "IPTC/XMP-metatiedot",
+        "WCAG-ohjeet",
+        "räätälöity alt-tekstieditori"
+      ]
+    },
+    {
+      "name": "Tekoälyskillit, jotka tuntevat talon tyylin",
+      "featured": true,
+      "description": "Kehitin mukautettuja tekoälyskillejä (Claude), jotka automatisoivat oppimateriaalituotannon toimitus- ja suunnittelutehtäviä, kuten brändin mukaisten esitysten, matematiikan vektorikuvitusten ja datakaavioiden tekemistä. Jokaiseen skilliin on rakennettu talon tyyli- ja laatusäännöt, joten tulos on yhtenäinen ja suoraan tuotantokelpoinen. Kartoitin tarpeet yhdessä toimituksen kanssa, kehitin skillejä prototyyppien kautta vaiheittain ja valmistelin ne koko tiimin käyttöön.",
+      "keywords": [
+        "Clauden skillit",
+        "kehotesuunnittelu",
+        "iteratiivinen prototypointi"
+      ]
+    },
+    {
+      "name": "Työkalut, jotka hoitavat toimitustyön puuduttavat vaiheet",
+      "featured": true,
+      "description": "Kokoan toimittajien pienet sisäiset työkalut yhteen paikkaan, johon pääsee yrityksen kertakirjautumisella. Yksi työkaluista yhdistää useiden Word- ja PDF-tiedostojen kommentit yhteen tiedostoon ja anonymisoi ne, toinen auttaa suunnittelemaan tuoteperheitä kattavammin. Lisää työkaluja on tulossa. Koulutan myös kollegoita käyttämään tekoälyä omassa työssään.",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Pulmapaja",
+      "description": "Pulmapaja, joka tuottaa pulmatehtäviä tulostettaviksi tai ruudulla ratkaistaviksi",
+      "url": "https://p1p3tt1.github.io/pulmapaja/"
+    },
+    {
+      "name": "Poimuri",
+      "description": "Poimuri, match-3-tyyppinen pulmapeli",
+      "url": "https://p1p3tt1.github.io/poimuri/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Tekoäly ja data",
+      "keywords": [
+        "Generatiivinen tekoäly",
+        "tekoälyagentit ja skillit",
+        "kehotesuunnittelu",
+        "koneoppimisen perusteet (luokittelu, regressio, tekstin piirteiden irrotus)",
+        "tekoälytyökalut: Claude ja Claude Code, ChatGPT, Gemini, M365 Copilot"
+      ]
+    },
+    {
+      "name": "Ratkaisujen suunnittelu",
+      "keywords": [
+        "Työnkulkujen uudistaminen",
+        "vaatimusmäärittely",
+        "nopea prototypointi",
+        "saavutettavuus (WCAG)",
+        "kuvien metatietostandardit"
+      ]
+    },
+    {
+      "name": "Ihmiset ja muutos",
+      "keywords": [
+        "Kollegoiden kouluttaminen",
+        "työpajat",
+        "kaksikielinen dokumentointi",
+        "toimittajien ja kehittäjien välinen yhteistyö"
+      ]
+    },
+    {
+      "name": "Työkalut",
+      "keywords": [
+        "Python",
+        "JavaScript ja React",
+        "HTML/CSS",
+        "LaTeX ja KaTeX",
+        "VBA (Office-makrot)",
+        "GitHub",
+        "Microsoft 365 ja Google Workspace"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Oulun yliopisto",
+      "studyType": "Filosofian maisteri",
+      "area": "matematiikka (sivuaineet kemia ja pedagogiset opinnot, aineenopettajan suuntautumisvaihtoehto)",
+      "endDate": "2021"
+    },
+    {
+      "institution": "Oulun yliopisto",
+      "studyType": "Luonnontieteiden kandidaatti",
+      "area": "matematiikka (sivuaineet fysiikka ja pedagogiset opinnot, aineenopettajan suuntautumisvaihtoehto)",
+      "endDate": "2019"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Building AI",
+      "issuer": "Helsingin yliopisto",
+      "date": "2026"
+    },
+    {
+      "name": "Elements of AI",
+      "issuer": "Helsingin yliopisto",
+      "date": "2025"
+    }
+  ],
+  "languages": [
+    {
+      "language": "suomi",
+      "fluency": "äidinkieli"
+    },
+    {
+      "language": "englanti",
+      "fluency": "erinomainen"
+    },
+    {
+      "language": "ruotsi",
+      "fluency": "hyvä"
+    },
+    {
+      "language": "ranska",
+      "fluency": "perusteet"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Polkujuoksu, lukeminen, elokuvat, pelaaminen ja omat koodiprojektit."
+    },
+    {
+      "name": "Olen ratkaissut jokaisen Ylen Sanapyramidin pelin alusta asti."
+    }
+  ],
+  "meta": {
+    "version": "0.2.0",
+    "lastModified": "2026-10-20",
+    "note": "Kaksoishakasulkeissa olevat arvot ovat paikkamerkkejä. Sivu korostaa niitä, kunnes ne on täytetty."
+  }
+}
