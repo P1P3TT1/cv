@@ -55,7 +55,7 @@
     {
       "name": "Alt-teksti kulkee kuvan mukana",
       "featured": true,
-      "description": "Suunnittelin prosessin, jossa tekoälyavustaja laatii kuvien alt-tekstit, toimittaja tarkistaa ne ja kevyt työkalu kirjoittaa ne kuvien metatietoihin (IPTC). Kuvaukset tallentuvat kuvatiedostoihin, joten ne seuraavat kuvaa kaikkialle, missä sitä käytetään, eikä yksikään kuva jää ilman alt-tekstiä. Laadin prosessille tekniset ohjeet suomeksi ja englanniksi.",
+      "description": "Suunnittelin prosessin, jossa tekoälyavustaja laatii kuvien alt-tekstit, toimittaja tarkistaa ne ja kevyt työkalu kirjoittaa ne kuvien metatietoihin (IPTC). Kuvaukset tallentuvat kuvatiedostoihin, joten ne seuraavat kuvaa kaikkialle, missä sitä käytetään, eikä yksikään kuva jää ilman alt-tekstiä.",
       "keywords": [
         "IPTC/XMP-metatiedot",
         "WCAG-ohjeet",

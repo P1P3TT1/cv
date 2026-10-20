@@ -55,7 +55,7 @@
     {
       "name": "Alt text that travels with every image",
       "featured": true,
-      "description": "Designed a pipeline for producing alt texts for images. An AI assistant generates the alt texts, an editor reviews them, and a lightweight tool writes them into the images' IPTC metadata. The descriptions are stored in each image, so they follow the image wherever it is used, and no image is left without an alt text. Wrote the technical documentation in Finnish and English.",
+      "description": "Designed a pipeline for producing alt texts for images. An AI assistant generates the alt texts, an editor reviews them, and a lightweight tool writes them into the images' IPTC metadata. The descriptions are stored in each image, so they follow the image wherever it is used, and no image is left without an alt text.",
       "keywords": [
         "IPTC/XMP metadata",
         "WCAG guidelines",
