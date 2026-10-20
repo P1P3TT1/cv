@@ -73,6 +73,16 @@
       ]
     },
     {
+      "name": "Käännetty matematiikan kirja, joka mahtuu yhä sivuilleen",
+      "featured": true,
+      "description": "Suunnittelin ja pilotoin matematiikan digikirjan kääntämisen. Tekstin lisäksi sisällön piti mahtua takaisin tuotteen sivuille, joten suunnittelin työnkulun, jossa tekstien vienti ja tuonti yhdistyvät GitHub Copilotin agenttiin, joka hoitaa itse käännöksen.",
+      "keywords": [
+        "GitHub Copilotin agentti",
+        "tekstien vienti ja tuonti",
+        "työnkulun suunnittelu"
+      ]
+    },
+    {
       "name": "Työkalut, jotka hoitavat toimitustyön puuduttavat vaiheet",
       "featured": true,
       "description": "Kokoan toimittajien pienet sisäiset työkalut yhteen paikkaan, johon pääsee yrityksen kertakirjautumisella. Yksi työkaluista yhdistää useiden Word- ja PDF-tiedostojen kommentit yhteen tiedostoon ja anonymisoi ne, toinen auttaa suunnittelemaan tuoteperheitä kattavammin. Lisää työkaluja on tulossa. Koulutan myös kollegoita käyttämään tekoälyä omassa työssään.",

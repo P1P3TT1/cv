@@ -73,6 +73,16 @@
       ]
     },
     {
+      "name": "A translated maths book that still fits its pages",
+      "featured": true,
+      "description": "Planned and piloted the translation of a digital mathematics book. Besides the text, the content had to fit back onto the product's pages, so I designed a workflow that combines text exports and imports with GitHub Copilot's agent for the translation itself.",
+      "keywords": [
+        "GitHub Copilot agent",
+        "text export and import",
+        "workflow design"
+      ]
+    },
+    {
       "name": "Tools that take the tedious parts off editors' plates",
       "featured": true,
       "description": "Setting up one home for small internal tools, available behind company single sign-on. One tool combines the comments from several Word and PDF files into one document and anonymises them, and another helps plan product families more comprehensively. More tools are on the way. I also train colleagues to use AI in their own work.",
